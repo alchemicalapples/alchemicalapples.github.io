@@ -1,0 +1,15 @@
+---
+layout: page
+---
+
+<ul>
+    {% if page.sourcecode %}
+      <li>Source code: <a href="{{ page.sourcecode }}">{{ page.sourcecode }}</a></li>
+    {% endif %}
+    {% if page.ludumdare %}
+      <li>Ludum Dare submission: <a href="{{ page.ludumdare }}">{{ page.ludumdare }}</a></li>
+    {% endif %}
+</ul>
+
+{{ content }}
+
