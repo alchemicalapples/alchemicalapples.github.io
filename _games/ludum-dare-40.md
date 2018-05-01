@@ -15,6 +15,10 @@ Created using a custom engine written in C++.
 
 My role was engine and game logic code.
 
-Teammates are credited on the submission page.
+This game was made with two of my coworkers, Jacob and Sean, and my friend Chume.
+
+Jacob made all the art and audio, Sean did a lot of the coding, and Chume made all the levels on the last day.
+
+Most of the game was developed from Sean's apartment.
 
 ![screenshot]({{ page.thumbnail }})

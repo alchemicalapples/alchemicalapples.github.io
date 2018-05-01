@@ -17,4 +17,7 @@ Created using a custom engine written in C++. This is the last game I made using
 
 Team is credited on the submission page.
 
+I want to make a note here about how awesome the team was.
+We didn't get as much done as we had hoped, but it was a super fun experience.
+
 ![screenshot]({{ page.thumbnail }})

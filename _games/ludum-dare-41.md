@@ -13,6 +13,9 @@ We came up with this "golf + tower defense" idea.
 
 Created using a custom engine written in C++ and Lua.
 
+We made this game all in my apartment over the weekend.
+I bought some Ikea desks for them to use, and turned my dining room into a gamedev room.
+
 My role was engine code and scripting, and I made the menu screen artwork.
 
 Teammates are credited on the submission page.
