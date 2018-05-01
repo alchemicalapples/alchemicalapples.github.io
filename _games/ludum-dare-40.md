@@ -3,7 +3,7 @@ layout: game
 title: "Ludum Dare 40: Drunkest Dungeon"
 date: 2017-12-04
 thumbnail: /assets/games/ludum-dare-40/screenshot.png
-sourcecode: https://github.com/alchemicalapples/LD40
+sourcecode: https://github.com/apples/LD40
 ludumdare: https://ldjam.com/events/ludum-dare/40/drunkest-dungeon
 ---
 

@@ -3,7 +3,7 @@ layout: game
 title: "Ludum Dare 28: Shovel Master"
 date: 2013-12-16
 thumbnail: /assets/games/ludum-dare-28/screenshot.png
-sourcecode: https://github.com/alchemicalapples/ludum-dare-28
+sourcecode: https://github.com/apples/ludum-dare-28
 ludumdare: http://ludumdare.com/compo/ludum-dare-28/?action=preview&uid=10296
 ---
 

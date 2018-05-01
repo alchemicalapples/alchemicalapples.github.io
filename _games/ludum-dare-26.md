@@ -3,7 +3,7 @@ layout: game
 title: "Ludum Dare 26: Tower"
 date: 2013-04-29
 thumbnail: /assets/games/ludum-dare-26/screenshot.png
-sourcecode: https://github.com/alchemicalapples/ludum-dare-26
+sourcecode: https://github.com/apples/ludum-dare-26
 ludumdare: http://ludumdare.com/compo/ludum-dare-26/?action=preview&uid=10296
 ---
 

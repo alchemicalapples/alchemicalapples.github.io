@@ -3,7 +3,7 @@ layout: game
 title: "Ludum Dare 41: Unholy Holes"
 date: 2018-04-23
 thumbnail: /assets/games/ludum-dare-41/screenshot.png
-sourcecode: https://github.com/alchemicalapples/LD41
+sourcecode: https://github.com/apples/LD41
 ludumdare: https://ldjam.com/events/ludum-dare/41/unholy-holes
 ---
 

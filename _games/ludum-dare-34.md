@@ -3,7 +3,7 @@ layout: game
 title: "Ludum Dare 34: Dungeon of Choice"
 date: 2015-12-14
 thumbnail: /assets/games/ludum-dare-34/screenshot.png
-sourcecode: https://github.com/alchemicalapples/Dungeon-of-Choice
+sourcecode: https://github.com/apples/Dungeon-of-Choice
 ludumdare: http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=10296
 ---
 

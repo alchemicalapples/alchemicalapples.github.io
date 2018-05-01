@@ -1,9 +1,9 @@
-title: .blog//alchemicalapples
+title: .blog//apples
 email: dbralir@gmail.com
 description: >-
   Yet another blog/portfolio.
   C++ elitism. Amatuer gamedev. Romance.
-github_username: alchemicalapples
+github_username: apples
 
 collections:
   games:

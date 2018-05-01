@@ -3,7 +3,7 @@ layout: game
 title: "Ludum Dare 37: Eyeball Room"
 date: 2016-12-11
 thumbnail: /assets/games/ludum-dare-37/screenshot.png
-sourcecode: https://github.com/alchemicalapples/LD37
+sourcecode: https://github.com/apples/LD37
 ludumdare: http://ludumdare.com/compo/ludum-dare-37/?action=preview&uid=10296
 ---
 
