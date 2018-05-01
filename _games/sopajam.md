@@ -7,6 +7,12 @@ sourcecode: https://github.com/apples/pipong
 ludumdare: http://ludumdare.com/compo/sopajam/?action=preview&uid=10296
 ---
 
+This was my first time participating in a game jam.
+
+I found Ludum Dare because Notch had posted timelapse videos of his own submissions, and I was inspired.
+
+This was during my freshman year of colllege, and was made in my dorm room with some friends watching.
+
 This was kind of a weird jam.
 It was hosted on the Ludum Dare site, but wasn't really part of the main event schedule.
 
